@@ -1,3 +1,8 @@
+
+
+<!---
+SumathiRavishankar/SumathiRavishankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @SumathiRavishankar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,15 +10,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-SumathiRavishankar/SumathiRavishankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sanjay Saravanan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Bengaluru, Karnataka</b>. </p>
+<p>Welcome to my page! </br> I'm Sumathi Ravishankar , Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Chennai, Tamil Nadu</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
